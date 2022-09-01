@@ -1,0 +1,54 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #161625;
+  min-height: 100vh;
+  padding: 40px;
+}
+
+.website-logo {
+  width: 40px;
+  height: 40px;
+  margin-right: 15px;
+}
+
+.heading {
+  color: #2cc6c6;
+  font-size: 25px;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.main-heading {
+  color: white;
+  font-size: 28px;
+}
+
+.failure-view {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.content-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.bar-chart-container {
+  background-color: #1c1c2b;
+  margin: 15px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.bar-graph-heading {
+  color: #cbd5e1;
+  font-size: 20px;
+}
